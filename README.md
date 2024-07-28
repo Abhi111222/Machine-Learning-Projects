@@ -1,0 +1,1 @@
+This repository contains a dataset related to hotel bookings and a Jupyter notebook that analyzes factors influencing booking cancellations. The analysis aims to identify patterns and insights that can help hotels understand why guests cancel reservations and develop strategies to minimize cancellations.
